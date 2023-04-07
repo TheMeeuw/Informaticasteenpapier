@@ -25,4 +25,4 @@ with open('potjes.txt', 'r') as f:
 print("Totale punten: ", bereken_punten(letters))
 
 
-Totale punten:  9982
+Totale punten:  10398
