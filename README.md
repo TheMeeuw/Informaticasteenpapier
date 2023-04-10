@@ -1,6 +1,12 @@
 # Informaticasteenpapier
 
-Steen Papier Schaar
+# Probleemanalyse:
+Als hoofdprobleem aan de hand van een strategiegids en gegevens/data een algoritme maken die het totaal aantal punten kan bereken van potjes steen, papier schaar.
+Voor de input een manier vinden om van het .txt bestand met alle potjes om te zetten naar een lijst met alle gegevens.
+Voor de output een puntentotaal die geprint word als output
+Als proces een manier vinden om de input door een berekening om te zetten naar een puntentotaal.
+
+# OPDRACHT: Steen Papier Schaar
 
 --- Deel Een ---
 
