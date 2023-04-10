@@ -5,7 +5,7 @@ puntentelling = {
     'C Y': 2,
     'A X': 4,
     'B X': 1,
-    'C X': 4,
+    'C X': 7,
     'A Z': 3,
     'B Z': 9,
     'C Z': 6,
@@ -25,4 +25,4 @@ with open('potjes.txt', 'r') as f:
 print("Totale punten: ", bereken_punten(letters))
 
 
-Totale punten:  9982
+Totale punten:  13009
